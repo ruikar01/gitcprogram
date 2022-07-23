@@ -14,5 +14,5 @@ main()
 	{
 		cout<<"the traingle is invalid";
 	}
-	
+	cout<<"hello word";
 }
