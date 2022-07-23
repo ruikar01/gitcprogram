@@ -2,4 +2,5 @@
 main()
 {
   printf("hello word");
+  printf("hello chiti");
 }
